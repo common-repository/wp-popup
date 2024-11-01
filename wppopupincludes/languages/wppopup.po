@@ -1,0 +1,1615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wppopup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-11 15:09+0100\n"
+"PO-Revision-Date: 2012-05-11 15:09+0100\n"
+"Last-Translator: David Cerulio\n"
+"Language-Team: David Cerulio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/barrygetty/Work/wordpress/plugins/wppopup\n"
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopup.help.php:55
+msgid "Overview"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopup.help.php:61
+msgid "Adding / Editing"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopup.help.php:75
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:109
+msgid "Add-ons"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:100
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:104
+msgid "WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:108
+msgid "Create New WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:108
+msgid "Create New"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:109
+msgid "Manage Add-ons Plugins"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:257
+msgid "An error occured updating the WP Popup order."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:258
+msgid "Are you sure you want to delete this WP Popup?"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:298
+#, php-format
+msgid "Welcome to wppopup, would you like to transfer your existing wppopup to the new format? <a href='%s'>Yes please transfer it</a> / <a href='%s'>No thanks, I'll create a new one myself.</a>"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:317
+msgid "Transferred wppopup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:655
+msgid "WP Popup updated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:656
+msgid "WP Popup not updated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:658
+msgid "WP Popup activated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:659
+msgid "WP Popup not activated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:661
+msgid "WP Popup deactivated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:662
+msgid "WP Popup not deactivated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:664
+msgid "WP Popup activation toggled."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:666
+msgid "WP Popup deleted."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:667
+msgid "WP Popup not deleted."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:669
+msgid "WP Popup added."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:670
+msgid "WP Popup not added."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:674
+msgid "Edit WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:674
+msgid "Add New"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:692
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:868
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1847
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1975
+msgid "Bulk Actions"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:693
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:869
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1848
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1976
+msgid "Toggle activation"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:695
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:871
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1850
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1978
+msgid "Apply"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:709
+msgid "WP Popup Name"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:710
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1257
+msgid "Conditions"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:711
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:841
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1866
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1948
+msgid "Active"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:772
+msgid "Edit"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:775
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1934
+msgid "Deactivate"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:777
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1936
+msgid "Activate"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:780
+msgid "Delete"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:795
+msgid "Site is not a Pro-site"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:798
+msgid "Visitor is logged in"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:801
+msgid "Visitor is not logged in"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:804
+msgid "Visitor has never commented"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:807
+msgid "Visit via a search engine"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:810
+msgid "Visit not via an Internal link"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:813
+msgid "Visit via specific referer"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:816
+msgid "wppopup shown less than x times"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:819
+msgid "On specific URL"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:822
+msgid "Not on specific URL"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:825
+msgid "In a specific country"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:828
+msgid "Not in a specific country"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:843
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1950
+msgid "Inactive"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:854
+msgid "No WP Popup were found."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:903
+msgid "New WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:958
+msgid "Edit WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:960
+msgid "Add WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:973
+msgid "WP Popup Settings"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:979
+msgid "wppopup title"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:982
+msgid "wppopup content"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:994
+msgid "Active conditions"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:995
+msgid "These are the rules that will determine if a wppopup should show when a visitor arrives at your website ALL rules must be true for the wppopup to show."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1043
+msgid "Drop here"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1046
+msgid "Appearance settings"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1049
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1604
+msgid "WP Popup Size"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1051
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1606
+msgid "Width:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1053
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1608
+msgid "Height:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1059
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1614
+msgid "WP Popup Position"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1061
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1071
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1616
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1626
+msgid "Left:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1063
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1075
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1618
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1630
+msgid "Top:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1069
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1624
+msgid "WP Popup Margins"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1073
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1628
+msgid "Right:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1077
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1632
+msgid "Bottom:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1085
+msgid "or use Javascript to resize and center the wppopup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1093
+msgid "Background Color"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1095
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1103
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1652
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1660
+msgid "Hex:"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1101
+msgid "Font Color"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1115
+msgid "WP Popup Style"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1119
+msgid "Use Style"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1146
+msgid "Remove Hide Forever Link"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1149
+msgid "Remove the \"Never see this message again\" link"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1156
+msgid "WP Popup appearance delays"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1159
+msgid "Show WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1162
+msgid "immediately"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1166
+msgid "after"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1166
+msgid "seconds"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1180
+msgid "Update"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1183
+msgid "Add"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1183
+msgid "Add and Activate"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1365
+msgid "Add this rule to the wppopup."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1378
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1391
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1405
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1423
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1439
+msgid "Remove"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1409
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1730
+msgid "times"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1444
+msgid "Select a country from the list below"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1553
+msgid "Your settings have been saved."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1582
+msgid "WP Popup content settings"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1583
+msgid "Use the settings below to modify the content of your WP Popup and the rules that will determine when, or if, it will be displayed."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1585
+msgid "WP Popup content"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1586
+msgid "Enter the content for your WP Popup in the text area below. HTML is allowed."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1590
+msgid "Update content"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1593
+msgid "WP Popup display settings"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1594
+msgid "Use the options below to determine the look, and display settings for the WP Popup."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1600
+msgid "Appearance Settings"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1640
+msgid "or just override the above with JS"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1650
+msgid "Background Colour"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1658
+msgid "Font Colour"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1670
+msgid "Display Rules"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1672
+msgid "Show the WP Popup if <strong>one</strong> of the following checked rules is true."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1682
+msgid "Visitor is not a supporter."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1691
+msgid "Visitor is logged in."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1697
+msgid "Visitor is not logged in."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1703
+msgid "Visitor has never commented here before."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1709
+msgid "Visitor came from a search engine."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1715
+msgid "Visitor did not come from an internal page."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1721
+msgid "Visitor referrer matches"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1728
+msgid "And the visitor has seen the WP Popup less than"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1738
+msgid "Update settings"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1815
+msgid "Add-on updated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1816
+msgid "Add-on not updated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1818
+msgid "Add-on activated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1819
+msgid "Add-on not activated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1821
+msgid "Add-on deactivated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1822
+msgid "Add-on not deactivated."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1824
+msgid "Add-on activation toggled."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1829
+msgid "Edit Add-ons"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1864
+msgid "Add-on Name"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1865
+msgid "Add-on File"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1926
+msgid " by "
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/classes/wppopupadmin.php:1961
+msgid "No Add-ons where found for this install."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/css/default/wppopup.php:8
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/css/fixed/wppopup.php:8
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/css/fullbackground/wppopup.php:9
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/css/fullbackgroundfixed/wppopup.php:8
+msgid "Never see this message again."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:1
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupaddons.help.php:1
+msgid "Introduction"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:2
+msgid "The main WP Popup screen show all of the WP Popup you have set up, you can edit, activate / deactivate and reorder the priority of the WP Popup using this screen."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:3
+msgid "Adding a WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:4
+msgid "To add a WP Popup you can either click on the <strong>Add New</strong> link near the top of the page, or click on the <strong>Create New</strong> menu item in the main wppopup menu."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:5
+msgid "Activating / Deactivating a wppopup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:6
+msgid "If you find that you do not need a particular WP Popup for a period of time, but want to keep it for later use, then clicking on the Deactivate link underneath the WP Popup title will ensure the WP Popup is not included in the processing."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:8
+msgid "You can re-activate at any time by clicking on the Activate link underneath the WP Popup title"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:10
+msgid "Ordering WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:11
+msgid "The WP Popup are processed in the order they show in the list. As soon as a WP Popup is shown, the remainder of the WP Popup in the list are ignored. You can change the order of the WP Popup processing by clicking in the left hand column of the list and dragging the relevant WP Popup to the desired location."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:13
+msgid "Deleting WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopup.help.php:14
+msgid "Once you have finished with a WP Popup you can delete it by clicking on the Delete link underneath the WP Popup title."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupaddons.help.php:2
+msgid "Add-ons allow you to extend the WP Popup plugin. The Add-on screen lists all of the Add-ons currently installed. To activate or deactivate an Add-on you should click on the Activate or Deactivate link underneath the Add-ons title."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupedit.help.php:1
+msgid "Adding / Editing a WP Popup"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupedit.help.php:2
+msgid "A WP Popup should have the following information."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupedit.help.php:4
+msgid "<strong>A Title</strong> - The WP Popup title helps you to identify different WP Popup in the main list."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupedit.help.php:5
+msgid "<strong>WP Popup content</strong> - This is the content that the WP Popup will display. You can upload any images you require by clicking on the Add Media button at the top of the edit area."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupedit.help.php:8
+msgid "<strong>Active Conditions</strong> - You can determine the conditions that need to be fulfilled in order for this WP Popup to display by dragging the relevant conditions in the the <strong>Drop Here</strong> box. All of the conditions must be true in order for the WP Popup to display."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/help/wppopupedit.help.php:11
+msgid "<strong>Appearance Settings</strong> - You can set the size and position of the WP Popup by setting the Appearance options. If you want the WP Popup system to attempt to determine the size of the WP Popup content and automatically resize the WP Popup and attempt to center it on your browser window."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/class_wd_help_tooltips.php:297
+msgid "Help"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:8
+msgid "Please install the latest version of <a href=\"http://premium.WPPPdev.org/project/update-notifications/\" title=\"Download Now &raquo;\">our free Update Notifications plugin</a> which helps you stay up-to-date with the most stable, secure versions of WPPP DEV themes and plugins. <a href=\"http://premium.WPPPdev.org/WPPP-dev/update-notifications-plugin-information/\">More information &raquo;</a>"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:160
+msgid "Australia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:161
+msgid "Afghanistan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:162
+msgid "Albania"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:163
+msgid "Algeria"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:164
+msgid "American Samoa"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:165
+msgid "Andorra"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:166
+msgid "Angola"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:167
+msgid "Anguilla"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:168
+msgid "Antarctica"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:169
+msgid "Antigua & Barbuda"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:170
+msgid "Argentina"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:171
+msgid "Armenia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:172
+msgid "Aruba"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:173
+msgid "Austria"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:174
+msgid "Azerbaijan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:175
+msgid "Bahamas"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:176
+msgid "Bahrain"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:177
+msgid "Bangladesh"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:178
+msgid "Barbados"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:179
+msgid "Belarus"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:180
+msgid "Belgium"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:181
+msgid "Belize"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:182
+msgid "Benin"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:183
+msgid "Bermuda"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:184
+msgid "Bhutan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:185
+msgid "Bolivia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:186
+msgid "Bosnia/Hercegovina"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:187
+msgid "Botswana"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:188
+msgid "Bouvet Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:189
+msgid "Brazil"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:190
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:191
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:192
+msgid "Bulgaria"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:193
+msgid "Burkina Faso"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:194
+msgid "Burundi"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:195
+msgid "Cambodia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:196
+msgid "Cameroon"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:197
+msgid "Canada"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:198
+msgid "Cape Verde"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:199
+msgid "Cayman Is"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:200
+msgid "Central African Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:201
+msgid "Chad"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:202
+msgid "Chile"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:203
+msgid "China, People's Republic of"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:204
+msgid "Christmas Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:205
+msgid "Cocos Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:206
+msgid "Colombia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:207
+msgid "Comoros"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:208
+msgid "Congo"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:209
+msgid "Congo, Democratic Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:210
+msgid "Cook Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:211
+msgid "Costa Rica"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:212
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:213
+msgid "Croatia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:214
+msgid "Cuba"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:215
+msgid "Cyprus"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:216
+msgid "Czech Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:217
+msgid "Denmark"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:218
+msgid "Djibouti"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:219
+msgid "Dominica"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:220
+msgid "Dominican Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:221
+msgid "East Timor"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:222
+msgid "Ecuador"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:223
+msgid "Egypt"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:224
+msgid "El Salvador"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:225
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:226
+msgid "Eritrea"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:227
+msgid "Estonia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:228
+msgid "Ethiopia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:229
+msgid "Falkland Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:230
+msgid "Faroe Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:231
+msgid "Fiji"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:232
+msgid "Finland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:233
+msgid "France"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:234
+msgid "France, Metropolitan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:235
+msgid "French Guiana"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:236
+msgid "French Polynesia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:237
+msgid "French South Territories"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:238
+msgid "Gabon"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:239
+msgid "Gambia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:240
+msgid "Georgia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:241
+msgid "Germany"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:242
+msgid "Ghana"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:243
+msgid "Gibraltar"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:244
+msgid "Greece"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:245
+msgid "Greenland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:246
+msgid "Grenada"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:247
+msgid "Guadeloupe"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:248
+msgid "Guam"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:249
+msgid "Guatemala"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:250
+msgid "Guinea"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:251
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:252
+msgid "Guyana"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:253
+msgid "Haiti"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:254
+msgid "Heard Island And Mcdonald Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:255
+msgid "Honduras"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:256
+msgid "Hong Kong"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:257
+msgid "Hungary"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:258
+msgid "Iceland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:259
+msgid "India"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:260
+msgid "Indonesia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:261
+msgid "Iran"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:262
+msgid "Iraq"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:263
+msgid "Ireland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:264
+msgid "Israel"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:265
+msgid "Italy"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:266
+msgid "Jamaica"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:267
+msgid "Japan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:268
+msgid "Johnston Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:269
+msgid "Jordan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:270
+msgid "Kazakhstan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:271
+msgid "Kenya"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:272
+msgid "Kiribati"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:273
+msgid "Korea, Democratic Peoples Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:274
+msgid "Korea, Republic of"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:275
+msgid "Kuwait"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:276
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:277
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:278
+msgid "Latvia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:279
+msgid "Lebanon"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:280
+msgid "Lesotho"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:281
+msgid "Liberia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:282
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:283
+msgid "Liechtenstein"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:284
+msgid "Lithuania"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:285
+msgid "Luxembourg"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:286
+msgid "Macau"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:287
+msgid "Macedonia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:288
+msgid "Madagascar"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:289
+msgid "Malawi"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:290
+msgid "Malaysia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:291
+msgid "Maldives"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:292
+msgid "Mali"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:293
+msgid "Malta"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:294
+msgid "Marshall Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:295
+msgid "Martinique"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:296
+msgid "Mauritania"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:297
+msgid "Mauritius"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:298
+msgid "Mayotte"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:299
+msgid "Mexico"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:300
+msgid "Micronesia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:301
+msgid "Moldavia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:302
+msgid "Monaco"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:303
+msgid "Mongolia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:304
+msgid "Montserrat"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:305
+msgid "Morocco"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:306
+msgid "Mozambique"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:307
+msgid "Union Of Myanmar"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:308
+msgid "Namibia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:309
+msgid "Nauru Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:310
+msgid "Nepal"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:311
+msgid "Netherlands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:312
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:313
+msgid "New Caledonia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:314
+msgid "New Zealand"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:315
+msgid "Nicaragua"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:316
+msgid "Niger"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:317
+msgid "Nigeria"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:318
+msgid "Niue"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:319
+msgid "Norfolk Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:320
+msgid "Mariana Islands, Northern"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:321
+msgid "Norway"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:322
+msgid "Oman"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:323
+msgid "Pakistan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:324
+msgid "Palau Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:325
+msgid "Palestine"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:326
+msgid "Panama"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:327
+msgid "Papua New Guinea"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:328
+msgid "Paraguay"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:329
+msgid "Peru"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:330
+msgid "Philippines"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:331
+msgid "Pitcairn"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:332
+msgid "Poland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:333
+msgid "Portugal"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:334
+msgid "Puerto Rico"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:335
+msgid "Qatar"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:336
+msgid "Reunion Island"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:337
+msgid "Romania"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:338
+msgid "Russian Federation"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:339
+msgid "Rwanda"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:340
+msgid "Samoa"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:341
+msgid "St Helena"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:342
+msgid "St Kitts & Nevis"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:343
+msgid "St Lucia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:344
+msgid "St Pierre & Miquelon"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:345
+msgid "St Vincent"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:346
+msgid "San Marino"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:347
+msgid "Sao Tome & Principe"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:348
+msgid "Saudi Arabia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:349
+msgid "Senegal"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:350
+msgid "Seychelles"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:351
+msgid "Sierra Leone"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:352
+msgid "Singapore"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:353
+msgid "Slovakia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:354
+msgid "Slovenia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:355
+msgid "Solomon Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:356
+msgid "Somalia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:357
+msgid "South Africa"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:358
+msgid "South Georgia and South Sandwich"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:359
+msgid "Spain"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:360
+msgid "Sri Lanka"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:361
+msgid "Stateless Persons"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:362
+msgid "Sudan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:363
+msgid "Suriname"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:364
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:365
+msgid "Swaziland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:366
+msgid "Sweden"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:367
+msgid "Switzerland"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:368
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:369
+msgid "Taiwan, Republic of China"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:370
+msgid "Tajikistan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:371
+msgid "Tanzania"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:372
+msgid "Thailand"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:373
+msgid "Timor Leste"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:374
+msgid "Togo"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:375
+msgid "Tokelau"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:376
+msgid "Tonga"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:377
+msgid "Trinidad & Tobago"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:378
+msgid "Tunisia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:379
+msgid "Turkey"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:380
+msgid "Turkmenistan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:381
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:382
+msgid "Tuvalu"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:383
+msgid "Uganda"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:384
+msgid "Ukraine"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:385
+msgid "United Arab Emirates"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:386
+msgid "United Kingdom"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:387
+msgid "US Minor Outlying Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:388
+msgid "USA"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:389
+msgid "Upper Volta"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:390
+msgid "Uruguay"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:391
+msgid "Uzbekistan"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:392
+msgid "Vanuatu"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:393
+msgid "Vatican City State"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:394
+msgid "Venezuela"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:395
+msgid "Vietnam"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:396
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:397
+msgid "Virgin Islands (US)"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:398
+msgid "Wallis And Futuna Islands"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:399
+msgid "Western Sahara"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:400
+msgid "Yemen Arab Rep."
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:401
+msgid "Yemen Democratic"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:402
+msgid "Yugoslavia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:403
+msgid "Zaire"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:404
+msgid "Zambia"
+msgstr ""
+
+#: /Users/David/Work/wordpress/plugins/wp-popup/wppopupincludes/includes/functions.php:405
+msgid "Zimbabwe"
+msgstr ""
+
